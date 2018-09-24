@@ -1,0 +1,2 @@
+# comment
+Collect struct comment.
