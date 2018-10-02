@@ -1,6 +1,7 @@
 package comment
 
 // User 用户
+// 这是一个表示用户的结构体
 type User struct {
 	*Model
 	Basic                 // 基础信息
